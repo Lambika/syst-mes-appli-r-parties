@@ -1,5 +1,5 @@
-Nom:AMESSEGHER
-Prenom:Aymane
+# Nom : AMESSEGHER  
+# Prénom : Aymane  
 
-Avancement:
-24 septembre : MAJ de la nouvelle spec ,avancement design
+## Avancement  
+- 24 septembre : mise à jour de la nouvelle spécification, avancement du design
